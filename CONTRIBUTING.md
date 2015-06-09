@@ -1,5 +1,12 @@
 # Contributing to CoreStore
 
+The following is a initial idea how it can look like when it grows.
+
+But for now all ways to post feedback/code are welcome. If you send code please see 
+section **Developer Certificate of Origin**.
+
+-------
+
 Courtesy of [Docker CONTRIBUTING.md](https://github.com/docker/docker/blob/master/CONTRIBUTING.md)
 
 @todo integrate the idea of: [http://symfony.com/doc/current/contributing/code/core_team.html](http://symfony.com/doc/current/contributing/code/core_team.html)
