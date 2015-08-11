@@ -1,13 +1,16 @@
 # CoreStore
 
 eCommerce Framework written in [GoLang](http://golang.org) based on Magento's database structure. 
-100% compatible to Magento 1 and 2.
+
+Compatible to Magento 1 and 2.
 
 For more details: [http://corestore.io](http://corestore.io)
 
 Magento is a trademark of [MAGENTO, INC.](http://www.magentocommerce.com/license/).
 
 ## Contributing
+
+[![Join the chat at https://gitter.im/corestoreio/csfw](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/corestoreio/csfw?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Please have a look at the [contribution guidelines](https://github.com/corestoreio/corestore/blob/master/CONTRIBUTING.md).
 
