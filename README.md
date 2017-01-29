@@ -1,6 +1,6 @@
 # CoreStore
 
-eCommerce Framework written in [GoLang](http://golang.org) based on Magento's database structure. 
+eCommerce library written in [GoLang](http://golang.org) based on Magento's database structure. 
 
 Compatible to Magento 1 and 2.
 
